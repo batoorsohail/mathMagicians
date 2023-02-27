@@ -144,7 +144,7 @@ If you like this project give a star.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/batoorsohail/leaderboard/blob/setupProject/LICENSE.md) licensed.
+This project is [MIT](https://github.com/batoorsohail/mathMagicians/blob/setupReact/LICENSE.md) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
