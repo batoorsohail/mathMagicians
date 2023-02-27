@@ -43,8 +43,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Add your name**
-- **Add your score**
+- **Will be add on the future**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
