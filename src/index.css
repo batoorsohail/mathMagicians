@@ -3,3 +3,50 @@
   padding: 0;
   margin: 0;
 }
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.result {
+  width: 25%;
+  height: 7vh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: #616161;
+}
+
+.result p {
+  font-size: 18px;
+  color: #fff;
+  margin-right: 10px;
+}
+
+.calculator {
+  display: flex;
+  flex-wrap: wrap;
+  width: 25%;
+  height: 40vh;
+}
+
+.button {
+  width: 25%;
+  font-size: 14px;
+  border: 1px solid hsl(0, 6%, 86%);
+}
+
+.operator {
+  width: 25%;
+  background-color: #fb0;
+  border: 1px solid hsl(0, 6%, 86%);
+  font-size: 15px;
+}
+
+.btn-0 {
+  width: 50%;
+}
