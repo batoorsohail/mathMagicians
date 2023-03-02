@@ -24,7 +24,7 @@ function Calculator() {
         <button type="button" className="button" onClick={clickHandler} value="7">7</button>
         <button type="button" className="button" onClick={clickHandler} value="8">8</button>
         <button type="button" className="button" onClick={clickHandler} value="9">9</button>
-        <button type="button" className="operator" onClick={clickHandler} value="x">x</button>
+        <button type="button" className="operator" onClick={clickHandler} value="*">*</button>
         <button type="button" className="button" onClick={clickHandler} value="4">4</button>
         <button type="button" className="button" onClick={clickHandler} value="5">5</button>
         <button type="button" className="button" onClick={clickHandler} value="6">6</button>
