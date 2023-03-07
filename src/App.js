@@ -3,6 +3,7 @@ import { Link, Route, Routes } from 'react-router-dom';
 import HomePage from './pages/HomePage';
 import CalculatorPage from './pages/CalculatorPage';
 import QuotePage from './pages/QuotePage';
+import Footer from './Footer';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
         <Route path="/calculator" element={<CalculatorPage />} />
         <Route path="/quote" element={<QuotePage />} />
       </Routes>
+      <Footer />
     </>
   );
 }

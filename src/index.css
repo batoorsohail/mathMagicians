@@ -42,7 +42,7 @@ h1 {
   display: flex;
   justify-content: space-between;
   padding: 50px;
-  height: 90vh;
+  height: 80vh;
 }
 
 .title {
@@ -98,6 +98,7 @@ h1 {
 }
 
 .home-page {
+  height: 80vh;
   padding: 50px;
 }
 
@@ -113,7 +114,7 @@ h1 {
   display: flex;
   justify-content: center;
   padding: 40px;
-  height: 90vh;
+  height: 80vh;
 }
 
 .quote-main {
@@ -126,4 +127,12 @@ h1 {
 
 .quote-main p {
   font-size: 25px;
+}
+
+.footer {
+  height: 10vh;
+  border-top: 1px solid #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
