@@ -1,19 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 * {
   box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
   padding: 0;
   margin: 0;
 }
 
-section {
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+}
+
+h1 {
+  color: #000;
+  font-size: 40px;
+  margin-left: 50px;
+}
+
+.nav-ul {
+  display: flex;
+  gap: 20px;
+  margin-right: 50px;
+}
+
+.nav-ul-link {
+  font-size: 15px;
+  font-weight: bold;
+  color: #000;
+}
+
+.nav-ul-link:hover {
+  color: #f5913e;
+}
+
+.calculator-main {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+  height: 90vh;
+}
+
+.title {
+  margin-top: 50px;
+  font-size: 35px;
+}
+
+.calculator-container {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
+  align-items: flex-end;
+  margin-top: 50px;
+  width: 50%;
 }
 
 .result {
-  width: 25%;
+  width: 60%;
   height: 7vh;
   display: flex;
   align-items: center;
@@ -30,8 +76,8 @@ section {
 .calculator {
   display: flex;
   flex-wrap: wrap;
-  width: 25%;
-  height: 40vh;
+  width: 60%;
+  height: 50vh;
 }
 
 .button {
@@ -49,4 +95,35 @@ section {
 
 .btn-0 {
   width: 50%;
+}
+
+.home-page {
+  padding: 50px;
+}
+
+.home-page h3 {
+  margin-bottom: 20px;
+}
+
+.home-page p {
+  margin-bottom: 10px;
+}
+
+.quote-page {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+  height: 90vh;
+}
+
+.quote-main {
+  display: flex;
+  text-align: center;
+  margin-top: 60px;
+  width: 70%;
+  height: 50vh;
+}
+
+.quote-main p {
+  font-size: 25px;
 }
