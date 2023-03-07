@@ -3,7 +3,7 @@ import { Link, Route, Routes } from 'react-router-dom';
 import HomePage from './pages/HomePage';
 import CalculatorPage from './pages/CalculatorPage';
 import QuotePage from './pages/QuotePage';
-import Footer from './Footer';
+import Footer from './components/Footer';
 
 function App() {
   return (
