@@ -38,6 +38,10 @@ h1 {
   color: #f5913e;
 }
 
+.nav-ul-link:focus {
+  color: #f5913e;
+}
+
 .calculator-main {
   display: flex;
   justify-content: space-between;
