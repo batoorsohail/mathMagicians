@@ -109,6 +109,13 @@ Start the Project $ npm start - serve the project in browser
 - Twitter: [@twitter](https://twitter.com/sohailBatoor)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sohail-batoor-52429b230/)
 
+👤 **Henry**
+
+- GitHub: [@Odongo006](https://github.com/Odongo006)
+- Twitter: [@HenryOdongo007](https://twitter.com/HenryOdongo007)
+- LinkedIn: [@HenryOdongo](https://www.linkedin.com/in/henry-odongo-91b830182/)
+- Website: [@Portfolio](https://odongo006.github.io/My-Portfolio-Project/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
