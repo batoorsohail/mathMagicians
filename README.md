@@ -145,6 +145,14 @@ If you like this project give a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse for helping me to complete this project. Also, my coding partner [@Henry Odongo](https://github.com/Odongo006) for helping me during this project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- LICENSE -->
 
