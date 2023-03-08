@@ -109,6 +109,13 @@ Start the Project $ npm start - serve the project in browser
 - Twitter: [@twitter](https://twitter.com/sohailBatoor)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sohail-batoor-52429b230/)
 
+👤 **Henry**
+
+- GitHub: [@Odongo006](https://github.com/Odongo006)
+- Twitter: [@HenryOdongo007](https://twitter.com/HenryOdongo007)
+- LinkedIn: [@HenryOdongo](https://www.linkedin.com/in/henry-odongo-91b830182/)
+- Website: [@Portfolio](https://odongo006.github.io/My-Portfolio-Project/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -135,6 +142,14 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project give a star. 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse for helping me to complete this project. Also, my coding partner [@Henry Odongo](https://github.com/Odongo006) for helping me during this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
