@@ -94,7 +94,7 @@ Install dependencies `$ npm install`
 
 If you want to build the project `$ npm run build` - this will build the project in /dist folder
 
-Start the Project $ npm start - serve the project in browser
+Start the Project `$ npm start` - serve the project in browser
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
