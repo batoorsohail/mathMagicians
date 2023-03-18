@@ -43,7 +43,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Will be add on the future**
+- **You can divide two numbers**
+- **You can sum two numbers**
+- **You can subtract two numbers**
+- **You can multiply two numbers**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,8 +125,7 @@ Start the Project `$ npm start` - serve the project in browser
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] *You can divide two numbers*
-- [ ] *You can Increment two numbers*
+- [ ] *You can get random quetos*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
